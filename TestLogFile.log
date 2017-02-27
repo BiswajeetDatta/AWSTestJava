@@ -1,0 +1,8 @@
+Feb 26, 2017 11:29:36 PM com.aws.test.Log info
+INFO: Starting a new test
+Feb 26, 2017 11:29:36 PM com.aws.test.Log info
+INFO: [com.aws.test.S3Operations]: Uploading a new object to S3 from a file
+Feb 26, 2017 11:29:36 PM com.aws.test.Log info
+INFO: [com.aws.test.S3Operations]: Downloading an object from S3
+Feb 26, 2017 11:29:36 PM com.aws.test.Log info
+INFO: [com.aws.test.S3Operations]: Content-Type: text/plain
